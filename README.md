@@ -12,3 +12,5 @@ Problems:
 - `skyscrapers.js`:  [7x7 Skyscrapers](https://www.codewars.com/kata/5917a2205ffc30ec3a0000a8) & simpler variants
 - `insane_triangles.js`: [Insane Coloured Triangles](https://www.codewars.com/kata/5a331ea7ee1aae8f24000175)
 - `twice_linear.js`: [Twice linear](https://www.codewars.com/kata/5672682212c8ecf83e000050)
+- `observed_pin.js`: [Observed PIN](https://www.codewars.com/kata/5263c6999e0f40dee200059d)
+- `last_digit.js`: [Last digit of a huge number](https://www.codewars.com/kata/5518a860a73e708c0a000027)
