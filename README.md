@@ -14,3 +14,4 @@ Problems:
 - `twice_linear.js`: [Twice linear](https://www.codewars.com/kata/5672682212c8ecf83e000050)
 - `observed_pin.js`: [Observed PIN](https://www.codewars.com/kata/5263c6999e0f40dee200059d)
 - `last_digit.js`: [Last digit of a huge number](https://www.codewars.com/kata/5518a860a73e708c0a000027)
+- `math_expression.js`: [Evaluate mathematical expression](https://www.codewars.com/kata/52a78825cdfc2cfc87000005)
