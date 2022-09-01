@@ -15,3 +15,4 @@ Problems:
 - `observed_pin.js`: [Observed PIN](https://www.codewars.com/kata/5263c6999e0f40dee200059d)
 - `last_digit.js`: [Last digit of a huge number](https://www.codewars.com/kata/5518a860a73e708c0a000027)
 - `math_expression.js`: [Evaluate mathematical expression](https://www.codewars.com/kata/52a78825cdfc2cfc87000005)
+- `n_parasitic.js`: [N-Parasitic Numbers Ending in N](https://www.codewars.com/kata/55df87b23ed27f40b90001e5)
